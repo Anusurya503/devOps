@@ -1,0 +1,19 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "correct path to devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anusurya503/devOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anusurya503/devOps/issues"
+  },
+  "homepage": "https://github.com/Anusurya503/devOps#readme"
+}
