@@ -9,6 +9,15 @@ According to the Waterfall method, the software development process goes through
 
 ![waterfall](./images/Waterfall.png)
 
+Waterfall development projects are slow, not iterative, resistant to change, and have long release cycles. Some reasons for this include:
+
+- Requirements are rigid, set at project start, and will likely not change.
+- Development phases are siloed, each starting after the previous phase has ended. Each phase is supported by highly specialized teams.
+
+- Hand offs from one phase to the other are long, often requiring teams to switch tools and spend time  
+- clarifying incomplete or ambiguous information.
+- Testing and security come after implementation, making corrective actions responsive and expensive.
+
 ## Prototype Model
 
 The Prototype method revolves around the creation of a low fidelity prototype for the purposes of collecting early feedback from prospective users. From there, prototypes are evolved into final software requirements.
