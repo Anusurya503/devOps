@@ -105,3 +105,41 @@ The cloud’s API-driven model enables developers and system administrators to i
 
 ## CI/CD pipeline
 
+A CI/CD pipeline is a good example of how DevOps teams use tools to streamline workflows and standardize practices. A CI/CD pipeline assures code quality, security, and fast, consistent deployments by repeatably progressing through the pipeline. DevOps teams iteratively remove process overlaps, human errors, and bottlenecks through automation.
+
+![pipeline](./images/pipeline.png)
+
+1. Code
+: write code with any language . when ready , deliver this code to a cental location . Peers review the new code .
+
+2. Build 
+: Creating builds of your software may include 
+ - compile code 
+ - check code styles & standards
+ - analyze complexibility and maintainability of the code
+ - validate dependencies
+ - create container pages 
+ - run unit tests
+
+3. Test
+: Assess if the application meets the defined functional, performance, design and implementation requirements.
+
+some testing practices are:
+- Functional testing 
+- Integration testing
+- Regression testing 
+- Acceptance testing
+- Load testing
+- Security testing
+
+4. Release
+: prepare and package the tested code with a specific version number 
+
+5. Deploy
+: deploy the release to targeted environments such as test, staging, alpha, beta, or producttion.
+
+6. Monitor
+: monitor the application in production to quickly detect unusual activity or errors
+
+
+
